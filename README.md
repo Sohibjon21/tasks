@@ -1,4 +1,5 @@
 For run project:
+
     composer install
     cp .env.example .env | copy .env.example .env
     configure .env
@@ -7,6 +8,7 @@ For run project:
     php artisan serve
 
 For test:
+
     php artisan test
 
 
