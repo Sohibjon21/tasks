@@ -42,7 +42,7 @@ Registration for API:
                 "success": true,
                 "data": {
                     "token": "1|DqNmIhlyIk358Mbe5AIhb1argIJe7U7pQllU13G08500d414",//this is a Bearer token
-                    "name": "sohibjon"
+                    "name": "Your Name"
                 },
                 "message": "User register successfully."
             }
