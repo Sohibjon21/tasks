@@ -1,10 +1,25 @@
 For run project:
 
+Install all requirements:
+
     composer install
+
+Copy .env
+
     cp .env.example .env | copy .env.example .env
-    configure .env
+
+configure .env
+
+Migrate migrations
+
     php artisan migrate
+
+Generate key
+
     php artisan key:generate
+
+Run Project
+
     php artisan serve
 
 For test:
