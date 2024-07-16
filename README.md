@@ -1,13 +1,13 @@
 For run project:
-    1. run: composer install
-    2. run: (for Windows) cp .env.example .env | (for Linux) copy .env.example .env
-    3. configure .env
-    4. run: php artisan migrate
-    5. run: php artisan key:generate
-    6. run: php artisan serve
+    composer install
+    cp .env.example .env | copy .env.example .env
+    configure .env
+    php artisan migrate
+    php artisan key:generate
+    php artisan serve
 
 For test:
-    1. run: php artisan test
+    php artisan test
 
 
 Registration for API:
